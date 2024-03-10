@@ -1,0 +1,1 @@
+In this project, data is extracted from multiple URLs employing web scraping techniques. The collected online reviews undergo sentiment analysis using Natural Language Processing (NLP) algorithms. The primary objective is to gain comprehensive insights into customer sentiment towards specific products or services mentioned in the reviews.
