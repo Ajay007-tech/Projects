@@ -41,8 +41,13 @@ Understand predictors of insurance costs through visualizations and statistical 
 ### Steps:
 1. **Data Preprocessing**: Handle missing values, feature engineering, scaling, encoding.
 2. **Model Selection**: Linear regression, tree-based models, neural networks.
-3. **Evaluation and Validation**: Cross-validation, RMSE, MAE, R², confidence intervals.
+3. **Evaluation and Validation**: Cross-validation, RMSE, MAE, R².
 4. **Interpretability**: Feature importance, actionable insights.
+
+## Results 
+### Model : RandomforestRegressor 
+### R² : 0.90
+
 
 ## Block 4: Web-Based Calculator
 ### Goal:
