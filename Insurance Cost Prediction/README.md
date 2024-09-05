@@ -1,5 +1,6 @@
 # Insurance Cost Prediction Project
-
+## Deployed Application
+You can access the deployed web application here: (https://cost-prediction.streamlit.app/)
 ## Problem Statement
 Insurance companies need accurate health insurance cost predictions for setting appropriate premiums. 
 Traditional methods often fall short in accounting for individual differences. Leveraging machine learning can improve prediction accuracy,
